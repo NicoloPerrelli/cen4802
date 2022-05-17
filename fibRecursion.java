@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class FibRecursion {
 	public static void main(String[] args) throws Exception {
 		  
-		//input
+		//input 
 		Scanner myObj = new Scanner(System.in); 
 		System.out.println("Enter n'th fib sequence");
 
